@@ -1,0 +1,86 @@
+Suggest & Question
+
+1. Can create additional folder with admin and operational admin.
+2. Sucopindo report to institution , the system can generate result in the report       form (Excel , pdf etc) and user upload to government system.
+3. EMS is additional modul in current egov system. 
+4. For Audit External it can be use after the system is ready to use.
+5. EHS disscuss for requirement
+
+
+
+1. QMS Phase II tidak se mature QMS Pase I . lebih kaya legal.
+2. Procedure , Manual , Record Mana saja 
+3. Sucofindo ( Surveyor, Inspecture, Pemeriksa) memberikan sertifikat hasil    pemeriksaan environtment.
+4. 
+
+
+
+EMS (Fitiansyah pdesg) & PAk Haryah
+
+Documented Information
+- Context | Bussiness Process Flow base dari QMS
+
+
+KPI 
+- Pengelolaan Udara / Emisi
+- Pengelolaan Limbah
+
+- Cara integrasi dan ambil data dari LHK
+
+AUDIT :
+
+- Mengikuti standard di QMS 
+
+
+
+Pengerjaan : 
+- Documented Information 
+- KPI
+
+
+NEXT MEETING : 
+- Jumat 10 - 11 (KPI) 
+
+
+Persiapkan Comparisson EGOV Phase I dan Phase II
+
+
+Meeting H-2 (KPI) Pak Firtiansyah: 
+- Energy Monthly -> form excel yang dikirim ke jepang
+- WAste and Valuables monthly
+- Dibuat Graph untuk setiap laporan 
+- Report di buat untuk complienece (Sukopindo Report) dan di buat juga untuk ke   jepang.
+
+
+- Aplikasi dibuat : user Upload file excel kemudian aplikasi menggenerate atau   menampilkan dalam bentuk graph.
+- Dari 4 file menggambarkan data mana yang akan ditampilkan pada grafik. 
+
+Sucofindo Report : 
+- Data sucofindo 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
